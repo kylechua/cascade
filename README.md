@@ -1,0 +1,1 @@
+This is a repository of some of the information cascade models I implemented as a part of my experience with TeamCore Research Group at USC.
